@@ -1,6 +1,9 @@
-/target
+target/
+test-output/
+.classpath
+.project
+.settings/
 /.settings
 /*.project
-.classpath
 .factorypath
 /bin
